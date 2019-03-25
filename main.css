@@ -1,10 +1,11 @@
 img {
    max-width: 100%;
    height: auto;
+   margin-bottom: 4rem;
  }
 
 * {
   font-family: Syncopate, sans-serif;
-  text-transform: capitalize;
+  text-transform: uppercase;
  }
  
