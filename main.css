@@ -2,4 +2,9 @@ img {
    max-width: 100%;
    height: auto;
  }
+
+* {
+  font-family: Syncopate, sans-serif;
+  text-transform: capitalize;
+ }
  
